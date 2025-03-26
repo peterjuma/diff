@@ -1,1 +1,1 @@
-*.wgsl -diff
+*.wgsl linguist-generated=true
